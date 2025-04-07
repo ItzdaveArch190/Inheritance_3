@@ -10,5 +10,9 @@ public class Person {
     void displayInfo() {
         System.out.println("Name: " + name);
         System.out.println("ID : " + id);
+        
     }
-}
+ } 
+
+    
+
